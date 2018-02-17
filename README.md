@@ -3,6 +3,9 @@
 
 Litecoin Full Node Wallet Implementation for OpenBazaar. Please refer to the 'altcoins' file in the docs folder. Must have a full Litecoin node in order to use with OpenBazaar.
 
+You can find the relevant files in the following section of the repository:
+
+/bitcoin/litecoind
 
 ## Documentation
 
