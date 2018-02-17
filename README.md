@@ -7,6 +7,10 @@ You can find the relevant files in the following section of the repository:
 
 /bitcoin/litecoind
 
+## Disclaimer
+
+This is a build off of and for the OpenBazaar project alongside the Litecoin project
+
 ## Documentation
 
 When ready we will put up a full documentation of the OpenBazaar protocol and the JSON API at https://docs.openbazaar.org
