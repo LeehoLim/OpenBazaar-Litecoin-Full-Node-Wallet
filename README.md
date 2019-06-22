@@ -9,7 +9,7 @@ You can find the relevant files in the following section of the repository:
 
 ## Disclaimer
 
-This is a build off of and for the OpenBazaar project alongside the Litecoin project
+In collaboration with OpenBazaar and the Litecoin Foundation
 
 ## Documentation
 
